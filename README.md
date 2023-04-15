@@ -1,6 +1,6 @@
 # U2-Framework
 
-U2-Framework is an innovative and flexible framework designed to provide an alternative option for FiveM servers. It offers a range of features and customization options, allowing server owners to create unique and engaging gaming experiences for their players. U2-Framework is built on the Unity engine, providing superior performance and stability compared to other frameworks. With its user-friendly interface and active development community, U2-Framework is an excellent choice for those looking to elevate their FiveM server to the next level.
+U2-Framework is an innovative and flexible framework designed to provide an alternative option for FiveM servers. It offers a range of features and customization options, allowing server owners to create unique and engaging gaming experiences for their players. With its user-friendly interface and active development community, U2-Framework is an excellent choice for those looking to elevate their FiveM server to the next level.
 
 [![MIT License](https://img.shields.io/github/license/JaysPancake/U2-Framework?style=for-the-badge)](https://choosealicense.com/licenses/apache-2.0/)
 
